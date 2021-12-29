@@ -1,0 +1,23 @@
+# Education Template
+- layout: top
+  name: Delft University of Technology
+  dates: 2018 - 2022 (expected)
+  qualification: PhD in Computer Science 
+  description: | # this will include new lines to allow paragraphs
+    Thesis\: Estimating human head and body behaviors in complex conversational scenes\\
+    Supervisors: <a href="http://homepage.tudelft.nl/3e2t5/" target="_blank">Dr. Hayley Hung</a>, <a href="https://www.tudelft.nl/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/pattern-recognition-bioinformatics/people/david-tax" target="_blank">Dr. David M.J. Tax</a> 
+
+- layout: top
+  name: Imperial College London 
+  dates: 2017 - 2018
+  qualification: MSc in Computing Science
+  description: | # this will include new lines to allow paragraphs
+    Thesis\: Spot the lie: detecting truthfulness of tweets using natural language processing\\
+    Supervisor: <a href="https://www.imperial.ac.uk/people/f.toni" target="_blank">Dr. Francesca Toni</a>
+  
+
+- layout: top
+  name: California Institute Technology 
+  dates: 2011 - 2015
+  qualification: BSc in Chemical Engineering 
+  description: | # this will include new lines to allow paragraphs

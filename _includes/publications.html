@@ -1,0 +1,13 @@
+
+<div class="container intro-container">
+    <h3 id="about">{{ site.data.selected_publications_title | default: "Selected Publications" }}</h3>
+    <div class="row clearfix">
+        <div class="{{ 'col-xs-12 ' }}">
+                <div class="{{ 'col-xs-12 ' }}">
+                        {{ site.data.publications.content | strip | markdownify }}
+                </div>
+
+        </div>
+    </div>
+</div>
+      

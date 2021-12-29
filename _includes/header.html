@@ -1,0 +1,89 @@
+<link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.min.css">
+
+<script>
+  function myFunction() {
+    var x = document.getElementById("myTopnav");
+    if (x.className === "topnav") {
+      x.className += " responsive";
+    } else {
+      x.className = "topnav";
+    }
+  }
+</script>
+<div class="container header-contianer">
+      <div class="topnav" id="myTopnav">
+          <a href="/index.html" {% if page.url == "/" %}class="active"{% endif %} >About</a>
+          <a href="/exp.html" {% if page.url == "/exp.html" %}class="active"{% endif %}> Experience</a>
+          <a href="/ed.html" {% if page.url == "/ed.html" %}class="active"{% endif %} >Education</a>
+          <a href="/proj.html" {% if page.url == "/proj.html" %}class="active"{% endif %} >Projects</a>
+          <!-- <a href="/skl.html" {% if page.url == "/skl.html" %}class="active"{% endif %}>Skills</a> -->
+          <a href="/pub.html" {% if page.url == "/pub.html" %}class="active"{% endif %}>Publications</a>
+<!--           <a href={{ site.baseurl }}/CV_StephanieTan.pdf target="_blank">CV</a>           -->
+          <a href="javascript:void(0);" class="icon" onclick="myFunction()">
+            <i class="fa fa-bars"></i>
+          </a>
+        </div>
+  <div class="row">
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-8 header-left">
+        <br>
+        <br>
+      <h1>{{ site.name | escape }}</h1>
+      <h2>{{ site.title | escape }}</h2>
+    </div>
+    <div class="col-xs-12 col-sm-6 col-md-6 col-lg-4 header-right">
+      <br>
+      <br>
+      <ul class="icons no-print">
+
+        <li>
+          <a target="_blank" href="https://scholar.google.com/citations?user=Zb5Of2EAAAAJ&hl=en&oi=sra" class="button button--sacnite button--round-l">
+            <i class="ai ai-google-scholar" title="GoogleScholar link"></i>
+          </a>
+        </li>
+
+        {%- if site.researchgate_username -%}
+          <li>
+            <a target="_blank" href="https://www.researchgate.net/profile/{{ site.researchgate_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="ai ai-researchgate" title="ResearchGate link"></i>
+            </a>
+          </li>
+        {%- endif -%}        
+        {%- if site.github_username -%}
+          <li>
+            <a target="_blank" href="https://github.com/{{ site.github_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-github" title="Github link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.instagram_username -%}
+          <li>
+            <a target="_blank" href="https://www.instagram.com/{{ site.instagram_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-instagram" title="Instagram link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+        {%- if site.linkedin_username -%}
+          <li>
+            <a target="_blank" href="https://www.linkedin.com/in/{{ site.linkedin_username| cgi_escape | escape }}" class="button button--sacnite button--round-l">
+              <i class="fa fa-linkedin" title="Linkedin link"></i>
+            </a>
+          </li>
+        {%- endif -%}
+      </ul>
+
+      {%- if site.email -%}
+        <p>
+          Email: <a href="mailto:{{ site.email }}" target="_blank">{{ site.email | escape }}</a>
+        </p>
+      {%- endif -%}
+      <p>
+        <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab" style="font-weight:normal;" target="_blank">Socially Perceptive Computing Group</a> <br> <a href="https://www.tudelft.nl/en" style="font-weight:normal;"  target="_blank">Delft University of Technology</a>
+      </p>
+      {%- if site.website -%}
+        <p>
+          Web: {% include a.html href=site.website %}{{ site.website | escape }}</a>
+        </p>
+      {%- endif -%}
+    </div>
+  </div>
+</div>

@@ -1,0 +1,49 @@
+# Project template
+- layout: top-middle
+  name: Multimodal head orientation via proxemics and dynamics 
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/lstm.png" width="600" height="350" class="center" class="responsive" /></td>
+        </tr>
+      </table>
+
+      In this work, we argue that head orientation in social interactions should account for the involving proxemics and dynamics, reflected via changes in body orientations, positions, speech activity, and body movement (acceleration). We propose a joint LSTM deep learning model to model head orientation of all members in a conversation group. We show the advantage of using multiple modalities and the contribution of each. This is a step towards estimating head orientations which are important social cues, without any vision data.
+
+      Publication: **S. Tan**, D.M.J. Tax, H. Hung, [**Multimodal joint head orientation estimation in interacting groups via proxemics and interaction dynamics**](https://doi.org/10.1145/3448122){:target="_blank"}, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021, Vol.5, No.1, 1-22.
+
+
+- layout: top-middle
+  name: Head and body orientation estimation with sparse weak labels 
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/mc.png" width="600" height="350" class="center" class="responsive" /></td>
+        </tr>
+      </table>
+
+      Our approach mitigates the need for large number of training labels by casting the task into a transductive low-rank matrix-completion problem  using sparsely labelled data. When only using 5% of all the labels as training samples, we report 65% and 76% averaged classification accuracy for head and body orientations, which is an 8% and 16% respective increase compared to previous state-of-the-art performance under the same transductive setting.
+
+      Publications: 
+
+      **S. Tan**, D.M.J. Tax, H. Hung, [**Improving temporal interpolation of head and body pose using Gaussian process regression in a matrix completion setting**](https://doi.org/10.1145/3279981.3279982){:target="_blank"}, *Proceedings of the Group Interaction Frontiers in Technology (GIFT)*, 2018, 1-8.
+
+      **S. Tan**, D.M.J. Tax, H. Hung, **Head and body orientation estimation with sparse weak labels in free standing conversational settings**, *Under review*.
+
+- layout: top-middle
+  name: Modular multimodal-multisensor data acquisition and synchronization of audio, video, and wearable device data 
+  description: | # this will include new lines to allow paragraphs
+
+      <table style="width:100%">
+        <tr>
+          <td align="center"><img src="images/sync.png" width="600" height="350" class="center" class="responsive" /></td>
+        </tr>
+      </table>
+
+      In this work, we propose a modular and cost-effective wireless approach for synchronized multisensor data acquisition of social human behavior. Our core idea involves a cost-accuracy trade-off by using Network Time Protocol (NTP) as a source reference for all sensors.
+
+      Publication: C. Raman<sup><b>#</b></sup>, **S. Tan**<sup><b>#</b></sup>, H. Hung, [**Modular multimodal-multisensor data acquisition and synchronization of audio, video, and wearable device data**](https://doi.org/10.1145/3394171.3413697){:target="_blank"}, *Proceedings of the 28th ACM International Conference on Multimedia (ACM-MM)*, 2020, 3586-3594.
+
+      <b>#</b>: Equal co-authors and contributions

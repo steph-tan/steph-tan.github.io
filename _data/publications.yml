@@ -1,0 +1,12 @@
+content: | # this will include new lines to allow paragraphs
+  <b>#</b>: Equal co-authors and contributions
+  - **S. Tan**, D.M.J. Tax, H. Hung, **Multimodal conversational group detection in social interactions**, *In preparation*.
+  - **S. Tan**, D.M.J. Tax, H. Hung, **Head and body orientation estimation with sparse weak labels in free standing conversational settings**, *Under review*.
+  - J. Quiros, **S. Tan**, et al., **Covfee:  an extensible web framework for continuous-time annotation of human behavior**, *Under review*.
+  - C. Raman<sup><b>#</b></sup>, J. Quiros<sup><b>#</b></sup>, **S. Tan**<sup><b>#</b></sup>, et al., **ConfLab: extreme in-the-wild multimodal multisensor data collection and sharing**, *Under review*.
+  - **S. Tan**, D.M.J. Tax, H. Hung, [**Multimodal joint head orientation estimation in interacting groups via proxemics and interaction dynamics**](https://doi.org/10.1145/3448122){:target="_blank"}, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021, Vol.5, No.1, 1-22.
+  - C. Raman<sup><b>#</b></sup>, **S. Tan**<sup><b>#</b></sup>, H. Hung, [**Modular multimodal-multisensor data acquisition and synchronization of audio, video, and wearable device data**](https://doi.org/10.1145/3394171.3413697){:target="_blank"}, *Proceedings of the 28th ACM International Conference on Multimedia (ACM-MM)*, 2020, 3586-3594.
+  - S. Kumar, **S. Tan**, L. Zheng, D. M. Kochmann, [**Inverse-designed spinodoid metamaterials**](https://www.nature.com/articles/s41524-020-0341-6){:target="_blank"}, *npj Computational Materials*, 6, 2020, 73.
+  - H. Hung, C. Raman, E. Gedik, **S. Tan**, J. Quiros, [**Multimodal data collection for social interaction analysis in-the-wild**](https://doi.org/10.1145/3343031.3351320){:target="_blank"}, *Proceedings of the 27th ACM International Conference on Multimedia (ACM-MM)*, 2019, 2714-2715. 
+  - **S. Tan**, D.M.J. Tax, H. Hung, [**Improving temporal interpolation of head and body pose using Gaussian process regression in a matrix completion setting**](https://doi.org/10.1145/3279981.3279982){:target="_blank"}, *Proceedings of the Group Interaction Frontiers in Technology (GIFT)*, 2018, 1-8.
+

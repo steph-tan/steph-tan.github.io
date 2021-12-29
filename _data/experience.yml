@@ -1,0 +1,49 @@
+# Experience template
+- layout: top
+  company: Delft University of Technology
+  job_title: PhD Researcher
+  dates: Jan 2018 - Jul 2022 (expected)
+  description: | # this will include new lines to allow paragraphs
+      My current research focuses on the following research topics\:
+      - automatic estimation of human head and/or body orientations using multimodal data
+      - automatic detection of conversation groups 
+      - large-scale human behavior data collection and annotation
+
+      **Teaching:** I acted as teaching assistants and project supervisors for courses: Multimedia analysis, Social signal processing, Deep learning.
+      I have supervised various master and bachelor thesis and bachelor seminar courses. 
+
+- layout: top
+  company: Amazon
+  job_title: Applied Scientist (internship)
+  dates: Feb - Jul 2021
+  description: | # this will include new lines to allow paragraphs
+      My work involved developing data-driven solutions for reducing concessions in Amazon operations. A machine learning model (decision-tree based) was designed to generate interpretable and actionable business insights, and the supporting AWS cloud infrastructure was set up to scale to different business owners and countries for up-to-date recommendations. 
+
+- layout: top
+  company: Bio-Rad Laboratories
+  job_title: R&D Researcher (internship)
+  dates: Jun - Aug 2014
+  description: | # this will include new lines to allow paragraphs
+      My work resulted in improved design of microfluidic chips for a new generation of ddPCR (digital droplet Polymerase Chain Reaction), reducing cracks by 50% and leak rate by 75% 
+
+- layout: top
+  company: NASA Jet Propulsion Laboratory (JPL)
+  job_title: Undergraduate Research Fellow
+  dates: Jun - Sep 2012, Jun-Sep 2013
+  description: | # this will include new lines to allow paragraphs
+      My first experience at JPL involved extracting and analyzing biochemical compounds from deep sea organisms. I presented my work at Astrobiology Graduate Conference 2012. For my second experience, I designed model and modifications to a supercritical extraction system resulting in increased flow rate range by 30% and decreased footprint by 20%. 
+      
+- layout: top
+  company: Keck Graduate Institute
+  job_title: R&D Researcher
+  dates: Jun - Dec 2010
+  description: | # this will include new lines to allow paragraphs
+      My work involved developing point of care diagnostics devices for Tuberculosis. 
+
+
+
+
+
+# - layout: top
+#   description: |
+#       Farther in the past, I have worked on various projects related to designing point-of-care diagnostics devices (Keck Graduate Institute 2010-2011, Bio-Rad Laboratories 2014 (Summer)), and chemical compound extraction technologies and systems (Jet Propulsion Laboratory 2012-2013 (Summers)).
