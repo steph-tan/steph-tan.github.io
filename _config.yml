@@ -19,7 +19,7 @@ linkedin_username: stephanie-tan-16811a8a
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/stephanietan.jpg
 about_content: | # this will include new lines to allow paragraphs
-  I have a technical and multidisciplinary background, having trainings in both computer science and applied sciences. I'm currently a PhD reseaercher in <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab" target="_blank">Socially Perceptive Computing Lab</a> of TU Delft.
+  I have a technical and multidisciplinary background, having trainings in both computer science and applied sciences. I'm currently a PhD researcher in <a href="https://www.tudelft.nl/en/ewi/over-de-faculteit/afdelingen/intelligent-systems/pattern-recognition-bioinformatics/socially-perceptive-computing-lab" target="_blank">Socially Perceptive Computing Lab</a> of TU Delft.
   My research focuses on automatic analysis of individual head and body behaviors in face-to-face social interactions and the connection to the interpretation of the underlying social dynamics, such as conversational group evolution. 
 
   My interests and expertise span in various applied and multimodal machine learning/deep learning: 
