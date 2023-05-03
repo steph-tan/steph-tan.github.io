@@ -1,7 +1,7 @@
 content: | # this will include new lines to allow paragraphs
   <b>#</b>: Equal co-authors and contributions
   - **S. Tan**, D.M.J. Tax, H. Hung, **Multimodal conversational group detection in social interactions**, *In preparation*.
-  - **S. Tan**, D.M.J. Tax, H. Hung, **Head and body orientation estimation with sparse weak labels in free standing conversational settings**, *Under review*.
+  - **S. Tan**, D.M.J. Tax, H. Hung, [**Head and body orientation estimation with sparse weak labels in free standing conversational settings**](https://proceedings.mlr.press/v173/tan22a.html){:target="_blank"}, *Proceedings of Machine Learning Research*, 2021, 179-203.
   - J. Quiros, **S. Tan**, et al., **Covfee:  an extensible web framework for continuous-time annotation of human behavior**, *Under review*.
   - C. Raman<sup><b>#</b></sup>, J. Quiros<sup><b>#</b></sup>, **S. Tan**<sup><b>#</b></sup>, et al., **ConfLab: extreme in-the-wild multimodal multisensor data collection and sharing**, *Under review*.
   - **S. Tan**, D.M.J. Tax, H. Hung, [**Multimodal joint head orientation estimation in interacting groups via proxemics and interaction dynamics**](https://doi.org/10.1145/3448122){:target="_blank"}, *Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)*, 2021, Vol.5, No.1, 1-22.
