@@ -1,4 +1,12 @@
 # Experience template
+
+- layout: top
+  company: Amazon
+  job_title: Applied (Research) Scientist 
+  dates: Jul 2022 - Present
+  description: | # this will include new lines to allow paragraphs
+      My work involved developing automated scheduling recommendations for warehouse operations and optimizing middle-mile delivery network topology connections. 
+
 - layout: top
   company: Delft University of Technology
   job_title: PhD Researcher
