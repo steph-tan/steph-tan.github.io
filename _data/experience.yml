@@ -1,5 +1,12 @@
 # Experience template
-
+- layout: top
+  company: Delft University of Technology
+  job_title: Postdoctoral researcher
+  dates: Nov 2023 - present
+  description: | # this will include new lines to allow paragraphs
+    My research will focus on improving team interaction and collaboration in high-stake negotation settings by facilitating\:
+    - automatic understanding of negotiation perspectives
+    - team dynamics using haptic, audio, and visual modalities 
 
 - layout: top
   company: Amazon
@@ -11,7 +18,7 @@
 - layout: top
   company: Delft University of Technology
   job_title: PhD Researcher
-  dates: Jan 2018 - Aug 2022 
+  dates: Jan 2018 - Jul 2022 (defended in May 2023)
   description: | # this will include new lines to allow paragraphs
       My research focused on the following research topics\:
       - automatic estimation of human head and/or body orientations using multimodal data
