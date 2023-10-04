@@ -11,7 +11,7 @@
 - layout: top
   company: Delft University of Technology
   job_title: PhD Researcher
-  dates: Jan 2018 - Aug 2022 (Date of defense: May 2023)
+  dates: Jan 2018 - Aug 2022 
   description: | # this will include new lines to allow paragraphs
       My research focused on the following research topics\:
       - automatic estimation of human head and/or body orientations using multimodal data
