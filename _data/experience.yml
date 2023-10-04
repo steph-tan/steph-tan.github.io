@@ -1,23 +1,32 @@
 # Experience template
 
 - layout: top
+  company: Delft University of Technology
+  job_title: Postdoctoral researcher
+  dates: Nov 2023 - present
+  description: | # this will include new lines to allow paragraphs
+    My research will focus on improving team interaction and collaboration in high-stake negotation settings by facilitating:
+      - automatic understanding of negotiation perspectives
+      - team dynamics using haptic, audio, and visual modalities 
+  
+- layout: top
   company: Amazon
   job_title: Applied (Research) Scientist 
-  dates: Jul 2022 - Present
+  dates: Jul 2022 - Oct 2023
   description: | # this will include new lines to allow paragraphs
       My work involved developing automated scheduling recommendations for warehouse operations and optimizing middle-mile delivery network topology connections. 
 
 - layout: top
   company: Delft University of Technology
   job_title: PhD Researcher
-  dates: Jan 2018 - 2022 (expected)
+  dates: Jan 2018 - Aug 2022 (Date of defense: May 2023)
   description: | # this will include new lines to allow paragraphs
-      My current research focuses on the following research topics\:
+      My research focused on the following research topics\:
       - automatic estimation of human head and/or body orientations using multimodal data
       - automatic detection of conversation groups 
       - large-scale human behavior data collection and annotation
 
-      **Teaching:** I acted as teaching assistants and project supervisors for courses: Multimedia analysis, Social signal processing, Deep learning.
+      **Teaching:** I was teaching assistants and project supervisors for courses: Multimedia analysis, Social signal processing, Deep learning.
       I have supervised various master and bachelor thesis and bachelor seminar courses. 
 
 - layout: top
@@ -39,7 +48,7 @@
   job_title: Undergraduate Research Fellow
   dates: Jun - Sep 2012, Jun-Sep 2013
   description: | # this will include new lines to allow paragraphs
-      My first experience at JPL involved extracting and analyzing biochemical compounds from deep sea organisms. I presented my work at Astrobiology Graduate Conference 2012. For my second experience, I designed model and modifications to a supercritical extraction system resulting in increased flow rate range by 30% and decreased footprint by 20%. 
+      My first experience at JPL involved extracting and analyzing biochemical compounds from deep sea organisms. I presented my work at Astrobiology Graduate Conference 2012. For my second experience, I designed a model and modifications to a supercritical extraction system resulting in increased flow rate range by 30% and decreased footprint by 20%. 
       
 - layout: top
   company: Keck Graduate Institute
