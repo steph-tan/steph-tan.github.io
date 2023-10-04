@@ -6,7 +6,7 @@ repository: stepha-tan/stepha-tan.github.io
 # Personal info
 name: Dr. Stephanie Tan
 title: Applied (resesarch) scientist
-email: stephanietan0514@gmail.com
+email: s.tan-1@tudelft.nl
 #phone: Your phone number (optional)
 #website: Your website (eg. https://google.com)(optional)
 
@@ -23,12 +23,12 @@ about_content: | # this will include new lines to allow paragraphs
   My research focuses on automatic analysis of individual head and body behaviors in face-to-face social interactions and the connection to the interpretation of the underlying social dynamics, such as conversational group evolution. 
 
   My research interests and expertise span in various areas: 
-    - Optimization
+    - Machine learning 
     - Time-series data
     - Wearable sensors
     - Individual and group behaviour
 
-  I'm passionate about designing data-driven solutions for real-life applications, and making products out of them to drive impact. 
+  I'm passionate about designing data-driven solutions for real-life applications to drive societal impact. 
     
 # More Section
 # more_title: A Little More About Me #(Use this to override about more section title)
