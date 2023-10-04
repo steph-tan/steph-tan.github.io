@@ -5,9 +5,9 @@
   job_title: Postdoctoral researcher
   dates: Nov 2023 - present
   description: | # this will include new lines to allow paragraphs
-    My research will focus on improving team interaction and collaboration in high-stake negotation settings by facilitating:
-      - automatic understanding of negotiation perspectives
-      - team dynamics using haptic, audio, and visual modalities 
+    My research will focus on improving team interaction and collaboration in high-stake negotation settings by facilitating\:
+    - automatic understanding of negotiation perspectives
+    - team dynamics using haptic, audio, and visual modalities 
   
 - layout: top
   company: Amazon
